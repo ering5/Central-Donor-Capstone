@@ -1,0 +1,8 @@
+[project]
+name = "Central-Donor-Capstone"
+version = "0.0.01"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
